@@ -1,8 +1,8 @@
 # Git-and-Github-Workshop-DRESTEIN-24
 ```
-NAME: Akkireddy Ruchitha Reddy  
-REGISTER NUMBER : 212221230004 
-DEPARTMENT : Artificial Intelligence and Data Science 
+NAME: M.Bhavya
+REGISTER NUMBER : 212221060159
+DEPARTMENT : ECE
 YEAR : IV
 ```
 ## 1. Setup and Initialize:
